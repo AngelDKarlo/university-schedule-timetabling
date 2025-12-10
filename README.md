@@ -1,4 +1,4 @@
-Integrantess: \n
+Integrantess: 
 
 -Angel D' Karlo Enciso Garcen 
 -Jesus Juarez Ramirez
