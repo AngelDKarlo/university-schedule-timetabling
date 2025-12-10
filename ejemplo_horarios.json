@@ -1,0 +1,62 @@
+{
+  "cursos": [
+    {
+      "id": "CURSO_1",
+      "nombre": "Algoritmos",
+      "grupo": "ITI-11",
+      "horas_semana": 6,
+      "profesor": "Dr. Said Polanco Martagón",
+      "aula": null,
+      "horarios": []
+    },
+    {
+      "id": "CURSO_2",
+      "nombre": "Herramientas Ofimáticas",
+      "grupo": "ITI-11",
+      "horas_semana": 4,
+      "profesor": "M.A.T. Hiram Herrera Rivas",
+      "aula": null,
+      "horarios": []
+    },
+    {
+      "id": "CURSO_3",
+      "nombre": "Introducción a la ITI",
+      "grupo": "ITI-11",
+      "horas_semana": 3,
+      "profesor": "M.I. Manuel Ruiz Méndez",
+      "aula": null,
+      "horarios": []
+    }
+  ],
+  "profesores": [
+    {
+      "id": 1,
+      "nombre": "Dr. Said Polanco Martagón",
+      "horas_asignadas": 12,
+      "cursos": ["CURSO_1"]
+    },
+    {
+      "id": 2,
+      "nombre": "M.A.T. Hiram Herrera Rivas",
+      "horas_asignadas": 8,
+      "cursos": ["CURSO_2"]
+    },
+    {
+      "id": 3,
+      "nombre": "M.I. Manuel Ruiz Méndez",
+      "horas_asignadas": 6,
+      "cursos": ["CURSO_3"]
+    }
+  ],
+  "grupos": ["ITI-11", "ITI-21", "ITI-23"],
+  "aulas": [
+    "Aula-1", "Aula-2", "Aula-3", "Aula-4", "Aula-5",
+    "Aula-6", "Aula-7", "Aula-8", "Aula-9", "Aula-10",
+    "Aula-11", "Aula-12", "Aula-13", "Aula-14", "Aula-15"
+  ],
+  "metadata": {
+    "periodo": "Ene-Abr 2025",
+    "universidad": "Universidad Politécnica de Victoria",
+    "programa": "Ingeniería en Tecnologías de la Información"
+  }
+}

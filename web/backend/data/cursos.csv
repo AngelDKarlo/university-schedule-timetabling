@@ -1,0 +1,59 @@
+id,nombre,grupo,profesor_id,profesor_nombre,horas_semana,dia,hora_inicio,hora_fin,aula_id,aula_nombre
+1,Algoritmos,ITI-1V,16,M.I. Arturo G. Mascorro Cienfuegos,6,Lunes,07:00,08:30,12,Aula-12
+2,Algoritmos,ITI-1V,16,M.I. Arturo G. Mascorro Cienfuegos,6,Martes,07:00,08:30,5,Aula-5
+3,Algoritmos,ITI-1V,16,M.I. Arturo G. Mascorro Cienfuegos,6,Lunes,08:30,10:00,7,Aula-7
+4,Algoritmos,ITI-1V,16,M.I. Arturo G. Mascorro Cienfuegos,6,Jueves,16:00,17:30,10,Aula-10
+5,Herramientas Ofimáticas,ITI-1V,21,M.I. Erendira Guitierrez Meza,4,Jueves,10:00,11:30,15,Aula-15
+6,Herramientas Ofimáticas,ITI-1V,21,M.I. Erendira Guitierrez Meza,4,Viernes,16:00,17:30,10,Aula-10
+7,Herramientas Ofimáticas,ITI-1V,21,M.I. Erendira Guitierrez Meza,4,Lunes,17:30,19:00,8,Aula-8
+8,Introducción a la ITI,ITI-1V,18,Ing. Hugo E. Treviño,3,Martes,17:30,19:00,1,Aula-1
+9,Introducción a la ITI,ITI-1V,18,Ing. Hugo E. Treviño,3,Lunes,19:00,20:30,13,Aula-13
+10,Arquitectura de Computadoras,ITI-1V,17,M.I. Hugo O. Camargo,5,Jueves,13:00,14:30,12,Aula-12
+11,Arquitectura de Computadoras,ITI-1V,17,M.I. Hugo O. Camargo,5,Lunes,14:30,16:00,5,Aula-5
+12,Arquitectura de Computadoras,ITI-1V,17,M.I. Hugo O. Camargo,5,Martes,14:30,16:00,6,Aula-6
+13,Arquitectura de Computadoras,ITI-1V,17,M.I. Hugo O. Camargo,5,Miércoles,14:30,16:00,13,Aula-13
+14,Matemáticas Básicas,ITI-1V,20,M.I. Luis R. De la Fuente,6,Martes,08:30,10:00,5,Aula-5
+15,Matemáticas Básicas,ITI-1V,20,M.I. Luis R. De la Fuente,6,Miércoles,10:00,11:30,6,Aula-6
+16,Matemáticas Básicas,ITI-1V,20,M.I. Luis R. De la Fuente,6,Miércoles,13:00,14:30,12,Aula-12
+17,Matemáticas Básicas,ITI-1V,20,M.I. Luis R. De la Fuente,6,Lunes,19:00,20:30,8,Aula-8
+18,Lógica Computacional,ITI-1V,23,M.C. Carlos Orozco Garcia,6,Lunes,10:00,11:30,2,Aula-2
+19,Lógica Computacional,ITI-1V,23,M.C. Carlos Orozco Garcia,6,Martes,10:00,11:30,11,Aula-11
+20,Lógica Computacional,ITI-1V,23,M.C. Carlos Orozco Garcia,6,Lunes,16:00,17:30,4,Aula-4
+21,Lógica Computacional,ITI-1V,23,M.C. Carlos Orozco Garcia,6,Miércoles,17:30,19:00,15,Aula-15
+21.5,Lógica Computacional,ITI-1V,23,M.C. Carlos Orozco Garcia,6,Jueves,19:00,20:30,3,Aula-3
+22,Inteligencia Emocional,ITI-1V,31,Alma Leticia Valdéz García,3,Lunes,11:30,13:00,1,Aula-1
+23,Inteligencia Emocional,ITI-1V,31,Alma Leticia Valdéz García,3,Lunes,13:00,14:30,13,Aula-13
+24,Matemáticas Discretas,ITI-1V,8,M.S.I. Mario H. Rodriguez Chávez,6,Miércoles,08:30,10:00,15,Aula-15
+25,Matemáticas Discretas,ITI-1V,8,M.S.I. Mario H. Rodriguez Chávez,6,Jueves,08:30,10:00,10,Aula-10
+26,Matemáticas Discretas,ITI-1V,8,M.S.I. Mario H. Rodriguez Chávez,6,Viernes,13:00,14:30,9,Aula-9
+27,Matemáticas Discretas,ITI-1V,8,M.S.I. Mario H. Rodriguez Chávez,6,Martes,16:00,17:30,7,Aula-7
+28,Herramientas Multimedia,ITI-1V,22,M.C. Maribel Marin Castro,4,Viernes,08:30,10:00,14,Aula-14
+29,Herramientas Multimedia,ITI-1V,22,M.C. Maribel Marin Castro,4,Viernes,14:30,16:00,5,Aula-5
+30,Herramientas Multimedia,ITI-1V,22,M.C. Maribel Marin Castro,4,Miércoles,19:00,20:30,9,Aula-9
+31,Fundamentos de Redes,ITI-1V,19,M.I. Adriana Lizeth Trujillo,5,Jueves,11:30,13:00,7,Aula-7
+32,Fundamentos de Redes,ITI-1V,19,M.I. Adriana Lizeth Trujillo,5,Viernes,11:30,13:00,12,Aula-12
+33,Fundamentos de Redes,ITI-1V,19,M.I. Adriana Lizeth Trujillo,5,Jueves,14:30,16:00,7,Aula-7
+34,Fundamentos de Redes,ITI-1V,19,M.I. Adriana Lizeth Trujillo,5,Miércoles,16:00,17:30,8,Aula-8
+35,Fundamentos de Física,ITI-1V,28,Lic. Carlos Castillo,6,Miércoles,07:00,08:30,9,Aula-9
+36,Fundamentos de Física,ITI-1V,28,Lic. Carlos Castillo,6,Viernes,10:00,11:30,12,Aula-12
+37,Fundamentos de Física,ITI-1V,28,Lic. Carlos Castillo,6,Martes,13:00,14:30,1,Aula-1
+38,Fundamentos de Física,ITI-1V,28,Lic. Carlos Castillo,6,Viernes,17:30,19:00,8,Aula-8
+39,Introducción a las Bases de Datos,ITI-1V,26,Lic. Myriam Ornelas Llerena,5,Jueves,07:00,08:30,9,Aula-9
+40,Introducción a las Bases de Datos,ITI-1V,26,Lic. Myriam Ornelas Llerena,5,Viernes,07:00,08:30,10,Aula-10
+41,Habilidades del Pensamiento,ITI-1V,4,Dr. Hector Hugo Avilés Arriaga,4,Miércoles,11:30,13:00,13,Aula-13
+42,Habilidades del Pensamiento,ITI-1V,4,Dr. Hector Hugo Avilés Arriaga,4,Jueves,17:30,19:00,2,Aula-2
+43,Habilidades del Pensamiento,ITI-1V,4,Dr. Hector Hugo Avilés Arriaga,4,Miércoles,19:00,20:30,14,Aula-14
+43.5,Habilidades del Pensamiento,ITI-1V,4,Dr. Hector Hugo Avilés Arriaga,4,Viernes,19:00,20:30,4,Aula-4
+44,Introducción a la Programación Orientada a Objetos,ITI-1V,24,Ing. Juan Manuel Ornelas Llerena,6,Martes,11:30,13:00,12,Aula-12
+45,Introducción a la Programación Orientada a Objetos,ITI-1V,24,Ing. Juan Manuel Ornelas Llerena,6,Martes,19:00,20:30,11,Aula-11
+45.1,Introducción a la Programación Orientada a Objetos,ITI-1V,24,Ing. Juan Manuel Ornelas Llerena,6,Lunes,10:00,11:30,14,Aula-14
+45.2,Introducción a la Programación Orientada a Objetos,ITI-1V,24,Ing. Juan Manuel Ornelas Llerena,6,Miércoles,10:00,11:30,11,Aula-11
+45.3,Introducción a la Programación Orientada a Objetos,ITI-1V,24,Ing. Juan Manuel Ornelas Llerena,6,Jueves,10:00,11:30,5,Aula-5
+46,Switcheo y Wireless,ITI-1V,17,M.I. Hugo O. Camargo,6,Lunes,11:30,13:00,3,Aula-3
+47,Switcheo y Wireless,ITI-1V,17,M.I. Hugo O. Camargo,6,Martes,14:30,16:00,8,Aula-8
+48,Switcheo y Wireless,ITI-1V,17,M.I. Hugo O. Camargo,6,Miércoles,13:00,14:30,7,Aula-7
+49,Switcheo y Wireless,ITI-1V,17,M.I. Hugo O. Camargo,6,Jueves,11:30,13:00,11,Aula-11
+50,Álgebra Lineal,ITI-1V,28,Lic. Carlos Castillo,6,Lunes,13:00,14:30,6,Aula-6
+51,Álgebra Lineal,ITI-1V,28,Lic. Carlos Castillo,6,Martes,10:00,11:30,9,Aula-9
+52,Álgebra Lineal,ITI-1V,28,Lic. Carlos Castillo,6,Miércoles,16:00,17:30,12,Aula-12
+53,Álgebra Lineal,ITI-1V,28,Lic. Carlos Castillo,6,Viernes,14:30,16:00,7,Aula-7

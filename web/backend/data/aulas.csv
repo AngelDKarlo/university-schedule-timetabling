@@ -1,0 +1,19 @@
+id,codigo,nombre,capacidad,tipo
+1,Aula-1,Aula 1,35,Teoría
+2,Aula-2,Aula 2,35,Teoría
+3,Aula-3,Aula 3,35,Teoría
+4,Aula-4,Aula 4,35,Teoría
+5,Aula-5,Aula 5,35,Teoría
+6,Aula-6,Aula 6,35,Teoría
+7,Aula-7,Aula 7,35,Teoría
+8,Aula-8,Aula 8,35,Teoría
+9,Aula-9,Aula 9,35,Teoría
+10,Aula-10,Aula 10,35,Teoría
+11,Aula-11,Aula 11,35,Teoría
+12,Aula-12,Aula 12,35,Teoría
+13,Aula-13,Aula 13,35,Teoría
+14,Aula-14,Aula 14,35,Teoría
+15,Aula-15,Aula 15,35,Teoría
+16,Lab-1,Laboratorio 1,25,Laboratorio
+17,Lab-2,Laboratorio 2,25,Laboratorio
+18,Lab-3,Laboratorio 3,25,Laboratorio
