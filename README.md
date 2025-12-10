@@ -1,6 +1,6 @@
-Integrantess:
+Integrantess: \n
 
-Angel D' Karlo Enciso Garcen 
-Jesus Juarez Ramirez
-Felipe Gamaliel Malibran Gonzalez
-David Salvador Contreras Grimaldo
+-Angel D' Karlo Enciso Garcen 
+-Jesus Juarez Ramirez
+-Felipe Gamaliel Malibran Gonzalez
+-David Salvador Contreras Grimaldo
